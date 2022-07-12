@@ -20,3 +20,7 @@ https://hacking-nassa-with-html.github.io/Minin_5_days_JS_marathon/Day_3_Vertica
 
 Homework Day 3
 https://hacking-nassa-with-html.github.io/Minin_5_days_JS_marathon/Homework_Day_3/index.html
+
+Homework Day 3 Bonus
+Use_arrow_keys_for_slider_bonus_Day_3
+https://hacking-nassa-with-html.github.io/Minin_5_days_JS_marathon/Use_arrow_keys_for_slider_bonus_Day_3/index.html
