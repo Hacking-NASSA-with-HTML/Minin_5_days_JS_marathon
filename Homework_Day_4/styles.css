@@ -21,12 +21,12 @@ body {
 }
 
 .square {
-    width: 16px;
-    height: 16px;
+    width: 4px;
+    height: 4px;
     background: #1d1d1d;
-    margin: 2px;
+    margin: 0.01px;
     box-shadow: 0 0 2px #000;
-    transition: 2.5s ease;
+    transition: 5s ease;
 }
 
 .square:hover {
