@@ -17,3 +17,6 @@ https://hacking-nassa-with-html.github.io/Minin_5_days_JS_marathon/Homework_Day_
 
 Day_3_Vertical_Slider
 https://hacking-nassa-with-html.github.io/Minin_5_days_JS_marathon/Day_3_Vertical_Slider/index.html
+
+Homework Day 3
+https://hacking-nassa-with-html.github.io/Minin_5_days_JS_marathon/Homework_Day_3/index.html
