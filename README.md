@@ -15,3 +15,5 @@ https://hacking-nassa-with-html.github.io/Minin_5_days_JS_marathon/Day_2_Drag-n-
 Homework Day 2
 https://hacking-nassa-with-html.github.io/Minin_5_days_JS_marathon/Homework_Day_2/index.html
 
+Day_3_Vertical_Slider
+https://hacking-nassa-with-html.github.io/Minin_5_days_JS_marathon/Day_3_Vertical_Slider/index.html
