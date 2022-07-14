@@ -30,3 +30,9 @@ https://hacking-nassa-with-html.github.io/Minin_5_days_JS_marathon/Day_4_Hover_B
 
 Homework Day 4
 https://hacking-nassa-with-html.github.io/Minin_5_days_JS_marathon/Homework_Day_4/index.html
+
+Day_5_Game
+https://hacking-nassa-with-html.github.io/Minin_5_days_JS_marathon/Day_5_Game/index.html
+
+Homework Day 5
+https://hacking-nassa-with-html.github.io/Minin_5_days_JS_marathon/Homework_Day_5/index.html
