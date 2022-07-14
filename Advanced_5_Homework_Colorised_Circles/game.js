@@ -59,7 +59,7 @@ function finishGame() {
 }
 
 function createRandomCircle() {
-    const colors = ['#f40909', '#1242ed', '#29f233', '#f2e941', '#b50de8', '#f22821', '#0c19a0', '#1f8760', '#eaed4b', '#90119e'];
+    const color = getRandomColor();
     const circle = document.createElement('div');
     const size = getRandomNumber(10, 60);
     const { width, height } = board.getBoundingClientRect();
@@ -71,21 +71,18 @@ function createRandomCircle() {
     circle.style.height = `${size}px`;
     circle.style.top = `${y}px`;
     circle.style.left = `${x}px`;
+    circle.style.backgroundColor = color;
 
     board.append(circle);
-
-    // set circles' random colors
-    setCircleColor();
-    function setCircleColor() {
-        const color = getRandomColor();
-        circle.style.backgroundColor = color;
-    }
-    function getRandomColor() {
-        const index = Math.floor(Math.random() * colors.length);
-        return colors[index];
-    }
 }
 
 function getRandomNumber(min, max) {
     return Math.round(Math.random() * (max - min) + min);
 }
+
+function getRandomColor() {
+    const index = Math.floor(Math.random() * colors.length);
+    return colors[index];
+}
+
+const colors = ['#f40909', '#1242ed', '#29f233', '#f2e941', '#b50de8', '#f22821', '#0c19a0', '#1f8760', '#eaed4b', '#90119e'];
